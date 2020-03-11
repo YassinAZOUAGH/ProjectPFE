@@ -1,0 +1,6 @@
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Test\bin\Debug\Test.exe.config
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Test\bin\Debug\Test.exe
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Test\bin\Debug\Test.pdb
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Test\obj\Debug\Test.exe
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Test\obj\Debug\Test.pdb

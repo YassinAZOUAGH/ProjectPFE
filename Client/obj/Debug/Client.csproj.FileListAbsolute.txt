@@ -1,0 +1,11 @@
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Client\bin\Debug\Client.exe.config
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Client\bin\Debug\Client.exe
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Client\bin\Debug\Client.pdb
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Client\bin\Debug\SimpleTCP.dll
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Client\obj\Debug\Client.exe
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Client\obj\Debug\Client.pdb
+C:\Users\AZOUAGH\source\repos\TCPIPDemo\Client\obj\Debug\Client.Client.resources

@@ -1,0 +1,13 @@
+﻿[*.cs]
+
+# CA1051: Ne pas déclarer de champs d'instances visibles
+dotnet_diagnostic.CA1051.severity = none
+
+# CA1305: Spécifier IFormatProvider
+dotnet_diagnostic.CA1305.severity = none
+
+# CA1031: Ne pas intercepter les types d'exception générale
+dotnet_diagnostic.CA1031.severity = none
+
+# IDE0005: La directive using n'est pas nécessaire.
+dotnet_diagnostic.IDE0005.severity = silent
